@@ -3,13 +3,13 @@
   #### 网络数据采集
   #### 数据库SQL
   #### python(核心)
-  	学习笔记：
+  学习笔记：
 	
   #### 数据处理
-  	学习笔记：
-    https://github.com/WuXinbo-bo/learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md  
+  学习笔记：
+  https://github.com/WuXinbo-bo/learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md  
 	
-	资料参考：
+  资料参考：
 	
   #### 机器学习
   #### 深度学习
