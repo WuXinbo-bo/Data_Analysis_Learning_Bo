@@ -7,7 +7,7 @@
 	
   #### 数据处理
   学习笔记：
-  https://github.com/WuXinbo-bo/learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.md  
+  https://github.com/WuXinbo-bo/Dada_Analysis_Learning/blob/main/数据处理Data%20Treating.md
 	
   资料参考：
 	
