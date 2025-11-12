@@ -26,5 +26,5 @@
     它只告诉我，这是一个数据集，你能在这其中找到某种结构或者规律吗
     
 ### 算法详解
-#### K-最近邻算法（KNN算法）
+#### 一、K-最近邻算法（KNN算法）
 https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/k-最近邻算法（KNN）.pdf
