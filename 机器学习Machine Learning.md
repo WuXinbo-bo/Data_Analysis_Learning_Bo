@@ -3,6 +3,7 @@
     1.掌握算法原理与掌握机器学习软件库同等重要，即熟悉算法原理比实现算法更重要  
     2.熟悉掌握一个机器学习软件  
     以上来源于————《AI制胜：机器学习级简入门》  
+    入门了解项目：https://github.com/datawhalechina/hands-on-data-analysis/tree/master（泰坦尼克号预测案例）
 ## 大纲
 
 ### 一、模型选择
