@@ -5,23 +5,22 @@
 	
 ## 大纲
   #### 网络数据采集
-  ####数据库结构化查询语言
-  ####python(核心)
-  学习笔记： 
-https://github . com/吴心伯-bo/Data _ Analysis _ Learning/blob/main/Python % 20 Learning % 20 log(WXB)。可移植文档格式文件的扩展名（portable document format的缩写）
+  
+  #### 数据库结构化查询语言
+  
+  #### python(核心)
+  学习笔记：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf
 
-  参考资料：  
-https://github . com/吴心伯-博/数据_分析_学习/blob/main/Python深度学习(2):Python基础。可移植文档格式文件的扩展名（portable document format的缩写）
+  参考资料：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0(2)%EF%BC%9APython%E5%9F%BA%E7%A1%80.pdf
   	
   #### 数据处理
-  学习笔记：   
+  学习笔记: https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md
 	
-  资料参考：
-《蟒蛇》机器学习手册》https://z-library . sk/book/17953734/57 DCC 6/python机器学习手册从数据预处理到深度学习。超文本标记语言
+  资料参考：《Python机器学习手册》https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html
+
 	
   #### 机器学习
-  学习笔记：
-https://github . com/吴心伯-bo/Data _ Analysis _ Learning/blob/main/机器学习机器%20Learning.md
+  学习笔记：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0Machine%20Learning.md
 
   资料参考：
   
