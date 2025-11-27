@@ -16,18 +16,18 @@
   #### 数据库（结构化查询语言）
   
   #### python(核心)
-  学习笔记：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf
+> [Python笔记pdf(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf)
 
-  参考资料：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0(2)%EF%BC%9APython%E5%9F%BA%E7%A1%80.pdf
+> [Python笔记完整pdf](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0(2)%EF%BC%9APython%E5%9F%BA%E7%A1%80.pdf)
   	
   #### 数据处理+可视化
-  学习笔记: https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md
+> [数据处理笔记(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md)
 	
-  资料参考：《Python机器学习手册》https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html
+> [资料参考：《Python机器学习手册》](https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html)
 
 	
   #### 机器学习
-  学习笔记：https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0Machine%20Learning.md
+> [机器学习笔记(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0Machine%20Learning.md)
 
   资料参考：
   
