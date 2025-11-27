@@ -1,15 +1,18 @@
 # 大数据项目全流程学习
-## 介绍
+***
+### 介绍
 这是Wxb的个人的数据科学，Python，数据处理,机器学习等的学习日志,主要是面向项目全流程的学习,本人会在学习过程中更新学习笔记与参考资料。欢迎大家进行学习,参考,讨论与指正。  
 参考资料均来自于本人在学习过程中所引用的（下面附有来源或文件链接）
-	
-## 大纲
+***
+### 大纲
   #### 计算机基础  
   ###### 计算机组成原理  
-  https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md	
+  [计算机组成原理笔记（WXB）](https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)	
   ###### 操作系统
   ###### 计算机网络
   ###### 程序设计基础
+  
+***
 
   #### 网络数据采集
   
@@ -22,7 +25,9 @@
   	
   #### 数据处理+可视化
 > [数据处理笔记(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md)
-	
+
+>[数据可视化笔记（WXB）]()
+
 > [资料参考：《Python机器学习手册》](https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html)
 
 	
