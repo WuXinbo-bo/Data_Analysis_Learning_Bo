@@ -21,7 +21,7 @@
   #### python(核心)
 > [Python笔记pdf(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf)
 
-> [Python笔记完整pdf](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0(2)%EF%BC%9APython%E5%9F%BA%E7%A1%80.pdf)
+> [资料参考：Python笔记完整pdf](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0(2)%EF%BC%9APython%E5%9F%BA%E7%A1%80.pdf)
   	
   #### 数据处理+可视化
 > [数据处理笔记(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md)
