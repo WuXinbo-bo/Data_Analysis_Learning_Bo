@@ -1,4 +1,5 @@
-# Markdown User Manual
+# Markdown User Manual(Markdown笔记使用手册)
+>编写：WuXinbo
 ---
 > MD 文件是基于 Markdown 语法的纯文本文件，核心优势是「简单易写、跨平台兼容、格式统一」，无需复杂排版，用纯文本符号就能实现标题、列表、表格等格式
 ---
