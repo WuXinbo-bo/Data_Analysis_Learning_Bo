@@ -5,8 +5,7 @@
 参考资料均来自于本人在学习过程中所引用的（下面附有来源或文件链接）
 ***
 ## 备忘录
-2025年12月03日  
-> 完善sns，plt可视化笔记(详细)
+2025年12月04日  
 >
 > 补充机器学习决策树，SVM，等模型笔记
 > 
@@ -34,7 +33,7 @@
   #### 数据处理+可视化
 > [数据处理笔记(WXB)](https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86Data%20Treating.md)
 
->[数据可视化笔记（WXB）](https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.md)
+>[数据可视化笔记（WXB）完整版](https://github.com/WuXinbo-bo/Data_Analysis_Learning_Bo/blob/main/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.md)
 
 > [资料参考：《Python机器学习手册》](https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html)
 
